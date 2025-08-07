@@ -30,6 +30,8 @@ Set `RTSP URL` in [`rtsp_streamer.sh`](rtsp_streamer.sh) file and run the script
 
 ### Stream View:
 
+Set `RTSP URL` in [`rtsp_viewer.sh`](rtsp_viewer.sh) file and run the script:
+
 ```bash
 ./rtsp_viewer.sh
 ```
